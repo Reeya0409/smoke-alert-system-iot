@@ -54,13 +54,13 @@ This ensures quick response and enhanced safety.
 ## 📂 Project Structure
 
 smoke-detection-IOT/   
-│── smokeDetection.ino/   
-   ├── smokeDetection.ino.ino   
-└── demo/   
-   ├── circuit.jpg   
-   ├── demo.mp4   
-   ├── blynk.jpg   
-   └── mail.jpg  
+  │── smokeDetection.ino/   
+     ├── smokeDetection.ino.ino   
+  └── demo/   
+     ├── circuit.jpg   
+     ├── demo.mp4   
+     ├── blynk.jpg   
+     └── mail.jpg  
    
 ---
 
